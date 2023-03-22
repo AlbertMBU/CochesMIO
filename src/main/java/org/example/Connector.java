@@ -1,5 +1,9 @@
 package org.example;
 
+import java.util.ArrayList;
+import java.util.List;
+
+
 public class Connector {
     //fields
     private String name;
